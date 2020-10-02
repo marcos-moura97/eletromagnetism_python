@@ -1,4 +1,4 @@
-# Este programa MatLab calcula os campos totais nos tres meios. A onda eletromagnetica
+# Este programa calcula os campos totais nos tres meios. A onda eletromagnetica
 # incide a partir do meio 1. O meio 3 eh infinito e, portanto, nao ha reflexao neste meio.
 # A incidencia eh plana, i.e, normal ou perpendicular. A espessura 'd' do meio 2 eh dada
 # em numero de comprimentos de onda (nco).
