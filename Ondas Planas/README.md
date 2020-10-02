@@ -25,3 +25,12 @@
    
    
    
+## 3meios_sem_atenuacao
+
+  Este programa calcula os campos totais nos tres meios. A onda eletromagneticincide a partir do meio 1. O meio 3 é infinito e, portanto, não há reflexao neste meio. A incidencia é plana, (normal ou perpendicular). A espessura _d_ do meio 2 é dada em numero de comprimentos de onda (nco). Este resultado é apresentado abaixo.
+  
+  ![Campo 3 meios](campo3meios.png  "onda_plana")
+  
+  Outra coisa que este código faz é calcular o vetor densidade de potência, ou vetor de Poynting, que representa a potência instantânea transmitida pela onda eletromagnética por unidade de área. Seu resultado pode ser visto abaixo.
+ 
+  ![Poynting](poynting.png  "onda_plana")
